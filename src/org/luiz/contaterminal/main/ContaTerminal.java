@@ -23,7 +23,7 @@ public class ContaTerminal {
 		
 		String agencia = entrada.next();
 		
-		System.out.println("Digite agora, por favor, seu nome completo:");
+		System.out.println("Digite agora, por favor, o seu nome:");
 		
 		String nome = entrada.next();
 		
