@@ -3,6 +3,12 @@ package org.luiz.contaterminal.main;
 import java.util.Locale;
 import java.util.Scanner;
 
+/**
+ * <h1>Conta Terminal</h1>
+ * @author Luiz Rodrigo da Silva Maciel
+ * @version 1.0
+ */
+
 public class ContaTerminal {
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in).useLocale(Locale.US);
